@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  label: MyString
+  value: 
+  type: 
+  metadata: 
+  modifiers: 
+  identifier: 
+  created_by_id: 
+  updated_by_id: 
+  question_id: 
+
+two:
+  label: MyString
+  value: 
+  type: 
+  metadata: 
+  modifiers: 
+  identifier: 
+  created_by_id: 
+  updated_by_id: 
+  question_id: 
